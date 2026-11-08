@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-dotfiles"
+name = "sigmaos_archlinux_dotfiles"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-dotfiles component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-dotfiles component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-dotfiles"
+name = "sigmaos_archlinux_dotfiles"
 path = "src/lib.rs"
