@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-dotfiles"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-dotfiles component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
